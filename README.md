@@ -1,4 +1,8 @@
 # MY-CUSTOM-APPS-LOGOS
 
 
-![DALL·E 2025-02-19 01 26 40 - A modern and futuristic logo for 'Battack', a Docker container responsible for tracking battery replacements  The logo should feature a sleek battery ](https://github.com/user-attachments/assets/fc84a2a1-b36f-4814-8616-87fb9c7cc111)
+![Screenshot 2025-02-19 012946](https://github.com/user-attachments/assets/8165c264-a6c1-4a1d-9fdf-f24f9797c9b7)
+
+
+
+![Screenshot 2025-02-19 013136](https://github.com/user-attachments/assets/95b56c27-d0aa-4c70-b112-b03ee986c490)
