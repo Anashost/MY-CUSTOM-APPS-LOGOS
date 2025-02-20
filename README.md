@@ -1,8 +1,6 @@
 # MY-CUSTOM-APPS-LOGOS
 
-
-![Screenshot 2025-02-19 012946](https://github.com/user-attachments/assets/8165c264-a6c1-4a1d-9fdf-f24f9797c9b7)
-
+![ULTRA-DL](https://github.com/user-attachments/assets/bcc62756-138a-4943-8377-3e472bacbf98)
 
 
-![Screenshot 2025-02-19 013136](https://github.com/user-attachments/assets/95b56c27-d0aa-4c70-b112-b03ee986c490)
+![battrack](https://github.com/user-attachments/assets/a3c6c4b1-dc1b-4ae8-af8d-f369b7daa029)
